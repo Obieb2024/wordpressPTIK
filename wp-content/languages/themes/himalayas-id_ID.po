@@ -1,0 +1,918 @@
+# Translation of Themes - Himalayas in Indonesian
+# This file is distributed under the same license as the Themes - Himalayas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-30 17:18:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Himalayas\n"
+
+#. Theme Name of the theme
+#: style.css inc/admin/class-himalayas-theme-review-notice.php:75
+#: inc/admin/class-himalayas-welcome-notice.php:45 inc/functions.php:503
+#, gp-priority: high
+msgid "Himalayas"
+msgstr "Himalayas"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:93
+msgid "Check to display link in new tab."
+msgstr "Centang untuk menampilkan link di tab baru."
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:64
+#: inc/widgets/class-himalayas-featured-posts-widget.php:87
+#: inc/widgets/class-himalayas-our-team-widget.php:71
+msgid "Select an Image"
+msgstr "Pilih gambar"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:63
+#: inc/widgets/class-himalayas-featured-posts-widget.php:86
+#: inc/widgets/class-himalayas-our-team-widget.php:70
+msgid "Use image"
+msgstr "Gunakan gambar"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:62
+#: inc/widgets/class-himalayas-featured-posts-widget.php:85
+#: inc/widgets/class-himalayas-our-team-widget.php:69
+msgid "Choose an image"
+msgstr "Tentukan gambar"
+
+#: inc/widgets/widgets.php:83
+msgid "Shows widgets on footer sidebar three."
+msgstr "Menampilkan widget di sidebar footer tiga."
+
+#: inc/widgets/widgets.php:73
+msgid "Shows widgets on footer sidebar two."
+msgstr "Menampilkan widget di sidebar footer dua."
+
+#: inc/widgets/widgets.php:63
+msgid "Shows widgets on footer sidebar one."
+msgstr "Menampilkan widget di sidebar footer satu."
+
+#: inc/admin/class-himalayas-dashboard.php:114
+msgid "Got theme support question?"
+msgstr "Ada pertanyaan seputar bantuan tema?"
+
+#: inc/admin/class-himalayas-welcome-notice.php:25
+msgid "Get started with Himalayas"
+msgstr "Mulai Himalayas"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-himalayas-welcome-notice.php:53
+msgid "Welcome! Thank you for choosing Himalayas! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Selamat datang! Terimakasih telah memilih Himalayas! Untuk mendaatkan semua manfaat yang bisa diberikan tema ini pastikan Anda mengunjungi %1$shalaman selamat datang%2$s kami."
+
+#: inc/admin/class-himalayas-notice.php:62
+#: inc/admin/class-himalayas-notice.php:81
+#: inc/admin/class-himalayas-welcome-notice.php:80
+msgid "Cheatin&#8217; huh?"
+msgstr "Aneh huh?"
+
+#: inc/admin/class-himalayas-notice.php:58
+#: inc/admin/class-himalayas-notice.php:77
+#: inc/admin/class-himalayas-theme-review-notice.php:153
+#: inc/admin/class-himalayas-theme-review-notice.php:171
+#: inc/admin/class-himalayas-welcome-notice.php:76
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Gagal. Silahkan muat ulang laman dan coba lagi."
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:31
+msgid "Note: Enter the Portfolio Section ID and use same for Menu item."
+msgstr "Catatan: Masukkan ID Bagian Portofolio dan gunakan yang sama untuk item Menu."
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:11
+msgid "Display some pages as Portfolio"
+msgstr "Tampilkan beberapa laman sebagai Portofolio"
+
+#: search.php:25
+msgid "Search Results:"
+msgstr "Hasil Pencarian:"
+
+#: inc/functions.php:505
+msgid "Powered by %s."
+msgstr "Dipersembahkan oleh %s."
+
+#: inc/functions.php:505
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s oleh %2$s."
+
+#: inc/functions.php:501
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer.php:413
+msgid "View PRO version"
+msgstr "Lihat versi PRO"
+
+#: inc/admin/class-himalayas-dashboard.php:105
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#. Template Name of the theme
+msgid "Our Team Template"
+msgstr "Template Tim Kami"
+
+#. Template Name of the theme
+msgid "Service Template"
+msgstr "Template Layanan"
+
+#. Template Name of the theme
+msgid "Portfolio Template"
+msgstr "Template Portofolio"
+
+#: sidebar.php:19
+msgid "This is an example widget to show how the Right Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menampilkan Sidebar Kanan terlihat secara default. Anda dapat menambahkan widget kustom dari %slayar widget%s di admin. Jika kustom widget ditambahkan maka ini akan ditimpa oleh widget tersebut."
+
+#: sidebar-left.php:19
+msgid "This is an example widget to show how the Left Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Ini adalah contoh widget untuk menampilkan Sidebar Kiri terlihat secara default. Anda dapat menambahkan widget kustom dari %slayar widget%s di admin. Jika kustom widget ditambahkan maka ini akan ditimpa oleh widget tersebut."
+
+#: sidebar-left.php:18 sidebar.php:18
+msgid "Example Widget"
+msgstr "Contoh Widget"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cari"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kami tak bisa menemukan apa yang Anda inginkan. Mungkin pencarian bisa membantu."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tapi tak ada yang cocok dengan terma pencarian Anda. Silakan coba lgi dengan kata kunci berbeda."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap menerbitkan pos pertamamu? <a href=\"%1$s\">Mulailah di sini</a>."
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Selanjutnya &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Sebelumnya"
+
+#: inc/widgets/class-himalayas-contact-widget.php:62
+msgid "Shortcode"
+msgstr "Potongan kode"
+
+#: inc/widgets/class-himalayas-contact-widget.php:60
+msgid "Use Contact Form Plugin and enter the shortcode here:"
+msgstr "Gunakan Plugin Form kontak dan masukkan potongan kodenya disini:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:51
+msgid "Select a Contact page."
+msgstr "Pilih laman Kontak."
+
+#: inc/widgets/class-himalayas-contact-widget.php:35
+msgid "Contact Section ID:"
+msgstr "ID Bagian Kontak:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:32
+msgid "Note: Enter the Contact Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan Id Bagian Kontak dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-contact-widget.php:14
+msgid "TG: Contact Us Widget"
+msgstr "TG: Widget Kontak Kami"
+
+#: inc/widgets/class-himalayas-contact-widget.php:10
+msgid "Show your Contact page."
+msgstr "Tampilkan laman Kontak Anda."
+
+#: inc/widgets/class-himalayas-our-team-widget.php:92
+msgid "Note: Create the pages and select Our Team Template to display Our Team pages."
+msgstr "Catatan: Buatlah laman dan pilih Template Tim Kami untuk menampilkan laman Tim Kami."
+
+#: inc/widgets/class-himalayas-our-team-widget.php:54
+msgid "Background Image:"
+msgstr "Gambar Latar Belakang:"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:38
+msgid "Our Team Section ID:"
+msgstr "ID Bagian Tim Kami:"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:35
+msgid "Note: Enter the Our Team Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Tim Kami dan gunakan yang sama untuk item menu. Hanya digunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-our-team-widget.php:14
+msgid "TG: Our Team Widget"
+msgstr "TG: Widget Tim Kami"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:10
+msgid "Show your Team Members."
+msgstr "Tampilkan Anggota Tim Anda."
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:324
+msgid "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:314
+msgid "on "
+msgstr "pada"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:306
+msgid "by "
+msgstr "Oleh"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:300
+msgid "Posted in "
+msgstr "Dipos di"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:132
+msgid "Select category"
+msgstr "Pilih kategori"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:127
+msgid "Show posts from a category"
+msgstr "Tampilkan pos dari kategori"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:123
+msgid "Show latest Posts"
+msgstr "Tampilkan Pos terbaru"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:52
+msgid "Featured Post Section ID:"
+msgstr "ID Bagian Pos Andalan:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:49
+msgid "Note: Enter the Featured Post Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Pos Andalan dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:20
+msgid "TG: Featured Posts"
+msgstr "TG: Pos Andalan"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:13
+msgid "Display latest posts or posts of specific category"
+msgstr "Tampilkan pos terbaru atau pos dengan kategori tertentu"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:59
+msgid "Note: Create the pages and select Portfolio Template to display Portfolio es."
+msgstr "Catatan: Buatlah laman dan pilih Template Portofolio untuk menampilkan Portofolio."
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:110
+msgid "Number of posts to display:"
+msgstr "Jumlah pos untuk ditampilkan:"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:34
+msgid "Portfolio Section ID:"
+msgstr "ID Bagian Portofolio:"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:15
+msgid "TG: Portfolio"
+msgstr "TG: Portofolio"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:101
+msgid "Layout Two"
+msgstr "Tata Letak Dua"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:100
+msgid "Layout One"
+msgstr "Tata Letak Satu"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:95
+msgid "Choose the layout"
+msgstr "Pilih Tata Letak"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:73
+msgid "Call to Action Additional Text"
+msgstr "Teks Tambahan Tombol Tindakan"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:70
+msgid "Call to Action Main Text"
+msgstr "Teks Utama Tombol Tindakan"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:68
+#: inc/widgets/class-himalayas-featured-posts-widget.php:91
+#: inc/widgets/class-himalayas-our-team-widget.php:75
+msgid "OTHER SETTINGS :"
+msgstr "PENGATURAN LAIN:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:47
+#: inc/widgets/class-himalayas-featured-posts-widget.php:70
+msgid "Image:"
+msgstr "Gambar:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:40
+#: inc/widgets/class-himalayas-featured-posts-widget.php:61
+#: inc/widgets/class-himalayas-our-team-widget.php:46
+msgid "Background Color:"
+msgstr "Warna Latar Belakang:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:39
+#: inc/widgets/class-himalayas-featured-posts-widget.php:59
+#: inc/widgets/class-himalayas-our-team-widget.php:44
+msgid "DESIGN SETTINGS :"
+msgstr "PENGATURAN DESAIN:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:14
+msgid "TG: Call To Action Widget"
+msgstr "TG: Widget Tombol Tindakan"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr "Gunakan widget ini untuk menampilkan bagian tombol tindakan."
+
+#: inc/widgets/class-himalayas-service-widget.php:58
+msgid "Note: Create the pages and select Services Template to display Services pages."
+msgstr "Catatan: Buatlah laman dan pilih Template Layanan untuk menampilkan laman Layanan."
+
+#: inc/widgets/class-himalayas-our-team-widget.php:87
+#: inc/widgets/class-himalayas-portfolio-widget.php:52
+#: inc/widgets/class-himalayas-service-widget.php:51
+msgid "Number of pages to display:"
+msgstr "Jumlah laman untuk ditampilkan:"
+
+#: inc/widgets/class-himalayas-service-widget.php:33
+msgid "Service Section ID:"
+msgstr "ID Bagian Layanan:"
+
+#: inc/widgets/class-himalayas-service-widget.php:30
+msgid "Note: Enter the Service Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Layanan dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-service-widget.php:14
+msgid "TG: Service Widget"
+msgstr "TG: Widget Layanan"
+
+#: inc/widgets/class-himalayas-service-widget.php:10
+msgid "Display some pages as services."
+msgstr "Tampilkan beberapa laman sebagai pelayanan."
+
+#. translators: %s
+#: inc/widgets/class-himalayas-about-us-widget.php:94
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr "<a href=\"%s\" target=\"_blank\">Lihat disini</a> Untuk Class Ikon"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:83
+msgid "Button Icon Class:"
+msgstr "Class Ikon Tombol:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:76
+#: inc/widgets/class-himalayas-call-to-action-widget.php:84
+#: inc/widgets/class-himalayas-featured-posts-widget.php:155
+msgid "Button Redirect Link:"
+msgstr "Link Pengarahan Tombol:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:69
+#: inc/widgets/class-himalayas-call-to-action-widget.php:78
+#: inc/widgets/class-himalayas-featured-posts-widget.php:147
+msgid "Button Text:"
+msgstr "Teks Tombol:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:52
+msgid "Page"
+msgstr "Halaman"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:57
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Pilih laman untuk menampilkan Judul, Kutipan dan gambar andalan."
+
+#: inc/widgets/class-himalayas-about-us-widget.php:52
+#: inc/widgets/class-himalayas-contact-widget.php:47
+#: inc/widgets/class-himalayas-featured-posts-widget.php:103
+#: inc/widgets/class-himalayas-our-team-widget.php:82
+#: inc/widgets/class-himalayas-portfolio-widget.php:47
+#: inc/widgets/class-himalayas-service-widget.php:46
+msgid "Description:"
+msgstr "Deskripsi"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:46
+#: inc/widgets/class-himalayas-contact-widget.php:42
+#: inc/widgets/class-himalayas-featured-posts-widget.php:96
+#: inc/widgets/class-himalayas-our-team-widget.php:78
+#: inc/widgets/class-himalayas-portfolio-widget.php:41
+#: inc/widgets/class-himalayas-service-widget.php:40
+msgid "Title:"
+msgstr "Judul:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:39
+msgid "About Section ID:"
+msgstr "ID Bagian Tentang:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:36
+msgid "Note: Enter the About Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "Catatan: Masukkan ID Bagian Tentang dan gunakan yang sama untuk item Menu. Hanya gunakan untuk Menu One Page."
+
+#: inc/widgets/class-himalayas-about-us-widget.php:14
+msgid "TG: About Widget"
+msgstr "TG: Widget Tentang"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:10
+msgid "Show your about page."
+msgstr "Tampilkan laman tentang Anda."
+
+#: inc/widgets/widgets.php:81
+msgid "Footer Sidebar Three"
+msgstr "Sidebar Footer Tiga"
+
+#: inc/widgets/widgets.php:71
+msgid "Footer Sidebar Two"
+msgstr "Sidebar Footer Dua"
+
+#: inc/widgets/widgets.php:61
+msgid "Footer Sidebar One"
+msgstr "Sidebar Footer Satu"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Error 404 page."
+msgstr "Menampilkan widget pada laman Error 404."
+
+#: inc/widgets/widgets.php:51
+msgid "Error 404 Page Sidebar"
+msgstr "Sidebar Laman Error 404"
+
+#: inc/widgets/widgets.php:43
+msgid "Show widgets at Front Page Content Section"
+msgstr "Tampilkan widget di Laman Depan Bagian Konten"
+
+#: inc/widgets/widgets.php:41
+msgid "Front Page Sidebar"
+msgstr "Sidebar Laman Depan"
+
+#: inc/widgets/widgets.php:33
+msgid "Shows widgets at Left side."
+msgstr "Menampilkan widget di sisi Kiri."
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Menampilkan widget di sisi Kanan."
+
+#: inc/functions.php:634
+msgid "Archives"
+msgstr "Arsip"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/functions.php:632
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/functions.php:628
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#: inc/functions.php:625
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Obrolan"
+
+#: inc/functions.php:623
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/functions.php:621
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/functions.php:619
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/functions.php:617
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/functions.php:615
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/functions.php:613
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Gambar"
+
+#: inc/functions.php:611
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/functions.php:609
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Aside"
+
+#: inc/functions.php:606
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/functions.php:606
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/functions.php:604
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/functions.php:604
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/functions.php:602
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/functions.php:602
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/functions.php:600
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/functions.php:598
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/functions.php:596
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/functions.php:505
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Hak Cipta &copy; %1$s %2$s."
+
+#: inc/functions.php:474
+msgid "Reply"
+msgstr "Balas"
+
+#: inc/functions.php:464
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang dimoderasi."
+
+#: inc/functions.php:456
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: inc/functions.php:452
+msgid "Post author"
+msgstr "Penulis pos"
+
+#: inc/functions.php:436
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: inc/functions.php:436
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:291
+msgid "Edit"
+msgstr "Sunting"
+
+#: inc/functions.php:276
+msgid " % Comments"
+msgstr " % Komentar"
+
+#: inc/functions.php:276
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/functions.php:276
+msgid "0 Comment"
+msgstr "0 Komentar"
+
+#: inc/functions.php:265 inc/related-posts.php:51
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/customizer.php:401
+msgid "Show excerpt"
+msgstr "Tampilkan kutipan"
+
+#: inc/customizer.php:400
+msgid "Show full post content"
+msgstr "Tampilkan konten pos penuh"
+
+#: inc/customizer.php:396
+msgid "Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr "Alihkan antara menampilkan kutipan dan pos penuh pada blog Anda dan arsip."
+
+#: inc/customizer.php:385
+msgid "Excerpts or Full Posts option"
+msgstr "Opso Kutipan atau Pos Penuh"
+
+#: inc/customizer.php:321
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Centang untuk menyembunyikan post blog/laman statis di laman depan"
+
+#: inc/customizer.php:310
+msgid "Hide Blog posts from the front page"
+msgstr "Sembunyikan pos Blog dari laman depan"
+
+#: inc/customizer.php:304
+msgid "Himalayas Additional Options"
+msgstr "Opsi Tambahan Himalayas"
+
+#: inc/customizer.php:302
+msgid "Contain additional options"
+msgstr "Berisi opsi tambahan"
+
+#: inc/customizer.php:293
+msgid "Choose Footer Layout Two"
+msgstr "Pilih Tata Letak Footer Dua"
+
+#: inc/customizer.php:292
+msgid "Choose Footer Layout One"
+msgstr "Pilih Tata Letak Footer Satu"
+
+#: inc/customizer.php:288
+msgid "Select the Footer Layout"
+msgstr "Pilih Tata Letak Footer"
+
+#: inc/customizer.php:277
+msgid "Footer Layout Options"
+msgstr "Opsi Tata Letak Footer"
+
+#: inc/customizer.php:269
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Akan berdampak di link, tombol dan banyak lagi. Pilih warna yang cocok untuk situs Anda"
+
+#: inc/customizer.php:257
+msgid "Primary color option"
+msgstr "Opsi warna utama"
+
+#: inc/customizer.php:241
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "Pilih tata letak default untuk pos. Tata letak ini akan berdampak di semua pos kecuali tata letak unik diterapkan pada pos tertentu."
+
+#: inc/customizer.php:229
+msgid "Default layout for single posts only"
+msgstr "Tata letak default untuk pos tunggal saja"
+
+#: inc/customizer.php:214
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "Pilih tata letak default untuk laman. Tata letak ini akan berdampak di semua laman kecuali tata letak unik diterapkan pada laman tertentu."
+
+#: inc/customizer.php:202
+msgid "Default layout for pages only"
+msgstr "Tata letak default untuk laman saja"
+
+#: inc/customizer.php:187
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "Pilih tata letak default. Tata letak ini akan berdampak di keseluruhan arisp, kategori, laman pencarian situs, dll. Tata letak untuk pos dan laman tunggal bisa diatur dari opsi dibawah"
+
+#: inc/customizer.php:175
+msgid "Default layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/customizer.php:169
+msgid "Himalayas Design Options"
+msgstr "Opsi Desain Himalayas"
+
+#: inc/customizer.php:168
+msgid "Contain all the Design related options"
+msgstr "Berisi semua opsi berkaitan dengan Desain"
+
+#: inc/customizer.php:154
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:132
+msgid "Enable the slider"
+msgstr "Adakan slider"
+
+#: inc/customizer.php:119
+msgid "3. If page do not have featured Image than that page will not included in slider show."
+msgstr "3. Jika laman tidak memiliki gambar andalan maka laman tersebut tidak akan termasuk di tampilan slider."
+
+#: inc/customizer.php:119
+msgid "2. The recommended size for the slider image is 1600 x 780 pixels. For better functioning of slider use equal size images for each slide."
+msgstr "2. Ukuran yang disarankan untuk gambar slider adalah 1600 x 780 piksel. Untuk fungsi slider yang lebih baik gunakan gambar dengan ukuran yang sama setiap slide."
+
+#: inc/customizer.php:119
+msgid "1. To display the Slider first check Enable the slider below. Now create the page for each slider and enter title, text and featured image. Choose that pages in the dropdown options."
+msgstr "1. Untuk menampilkan Slider silahkan centang Adakan slider dibawah. Sekarang buatlah laman untuk setiap slider dan masukkan judul, teks dan gambar andalan. Pilih laman tersebut di opsi tarik turun."
+
+#: inc/customizer.php:119
+msgid "Note"
+msgstr "Catatan"
+
+#: inc/customizer.php:117
+msgid "Slider Settings"
+msgstr "Pengaturan Slider"
+
+#: inc/customizer.php:112
+msgid "Himalayas Slider Options"
+msgstr "Opso slider Himalayas"
+
+#: inc/customizer.php:111
+msgid "Contain all the slider related options"
+msgstr "Berisi semua opsi berkaitan dengan slider"
+
+#: inc/customizer.php:99
+msgid "Disable"
+msgstr "Tiadakan"
+
+#: inc/customizer.php:98
+msgid "Show Both"
+msgstr "Tampilkan Keduanya"
+
+#: inc/customizer.php:97
+msgid "Header Text Only"
+msgstr "Hanya Teks Header"
+
+#: inc/customizer.php:96
+msgid "Header Logo Only"
+msgstr "Hanya Logo Header"
+
+#: inc/customizer.php:93
+msgid "Choose the required option"
+msgstr "Pilih opsi yang diperlukan"
+
+#: inc/customizer.php:81
+msgid "Header Title/Tagline and Logo"
+msgstr "Judul/Slogan Header dan Logo"
+
+#: inc/customizer.php:75
+msgid "Make header non transparent."
+msgstr "Buat header tidak transparan."
+
+#: inc/customizer.php:64
+msgid "By default Header is transparent when slider is used."
+msgstr "Secara default Header nya transparan ketika slider digunakan."
+
+#: inc/customizer.php:63
+msgid "Header Transparency"
+msgstr "Transparansi Header"
+
+#: inc/customizer.php:56
+msgid "Check to make header non-sticky"
+msgstr "Centang untuk membuat header tidak lengket"
+
+#: inc/customizer.php:45
+msgid "Header is sticky by default."
+msgstr "Header lengket secara default nya."
+
+#: inc/customizer.php:44
+msgid "Header Sticky/non-sticky"
+msgstr "Header Lengket/tidak lengket"
+
+#: inc/customizer.php:38
+msgid "Himalayas Header Options"
+msgstr "Opsi Header Himalayas"
+
+#: inc/customizer.php:36
+msgid "Contain all the Header related options"
+msgstr "Berisi semua opsi yang berkaitan dengan Header"
+
+#: inc/admin/meta-boxes.php:124
+msgid "Show designation in Our Team Widget. </br>"
+msgstr "Tampilkan penunjukkan di Widget Tim Kami. </br>"
+
+#: inc/admin/meta-boxes.php:117
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> for icon class. For example: <strong>fa-mobile</strong>"
+msgstr "<a href=\"%s\" target=\"_blank\">Lihat disini</a> untuk class icon. Contoh: <strong>fa-mobile</strong>"
+
+#: inc/admin/meta-boxes.php:113
+msgid "If featured image is not used than display the icon in Services. </br>"
+msgstr "Jika gambar andalan tidak digunakan maka tampilkan ikon di Layanan. </br>"
+
+#: inc/admin/meta-boxes.php:66
+msgid "team designation"
+msgstr "penunjukkan tim"
+
+#: inc/admin/meta-boxes.php:59
+msgid "fontawesome Icons"
+msgstr "Ikon fontawesome"
+
+#: inc/admin/meta-boxes.php:52
+msgid "No Sidebar Content Centered"
+msgstr "Konten Ditengah Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:47
+msgid "No Sidebar Full Width"
+msgstr "Lebar Penuh Tanpa Sidebar"
+
+#: inc/admin/meta-boxes.php:42 inc/widgets/widgets.php:31
+msgid "Left Sidebar"
+msgstr "Sidebar kiri"
+
+#: inc/admin/meta-boxes.php:37 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Sidebar kanan"
+
+#: inc/admin/meta-boxes.php:32
+msgid "Default Layout"
+msgstr "Tata Letak Bawaan"
+
+#: inc/admin/meta-boxes.php:22
+msgid "Our Team Designation"
+msgstr "Penunjukkan Tim Kami"
+
+#: inc/admin/meta-boxes.php:20
+msgid "Icon class"
+msgstr "Ikon class"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: functions.php:47
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: content.php:53 content.php:58 inc/header-functions.php:62
+#: inc/widgets/class-himalayas-about-us-widget.php:180
+#: inc/widgets/class-himalayas-featured-posts-widget.php:338
+#: inc/widgets/class-himalayas-service-widget.php:188
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: content-page.php:24 content-single.php:49
+msgid "Pages:"
+msgstr "Laman:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Terbaru &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Terdahulu"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: 404.php:36
+msgid "error"
+msgstr "error"
+
+#: 404.php:34
+msgid "404"
+msgstr "404"
+
+#: 404.php:30
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Sepertinya tidak ada apa-apa disini. Cobalah pencarian dibawah."
+
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak ditemukan."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com"
+msgstr "http://themegrill.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themegrill.com/themes/himalayas/"
+msgstr "http://themegrill.com/themes/himalayas/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
